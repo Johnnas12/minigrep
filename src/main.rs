@@ -14,8 +14,4 @@ fn main() {
 
     println!("With text: \n{contents}");
 
-    let args: Vec<String> = env::args().collect();
-
-    
-
 }
